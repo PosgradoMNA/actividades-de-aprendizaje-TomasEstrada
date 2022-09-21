@@ -1,0 +1,41 @@
+"0123456".find('1')
+
+
+
+name = 'Lizz'
+print(name[0:2])
+
+var = '01234567'
+print(var[::2])
+
+'1'+'2'
+
+B=["a","b","c"]
+B[1:]
+
+D = {'a':0,'b':1,'c':2}
+
+D.values()
+
+x='a'
+
+if(x!='a'):
+
+    print("This is not a.")
+
+else:
+
+    print("This is a.")
+
+def f(*x):
+
+    return sum(x)
+x = (1,2,4) 
+f(x)
+
+A = ['1','2','3']
+
+for a in A:
+
+    print(2*a)
+
